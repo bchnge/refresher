@@ -10,4 +10,5 @@
 ## Algorithmms
 ### Sort
 ### Search
+#### [Binary Search](./1.BinarySearch.ipynb)
 ### Optimization
